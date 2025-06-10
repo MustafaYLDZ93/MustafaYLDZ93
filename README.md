@@ -1,27 +1,29 @@
 ## Hi there 👋
-Yazılım Test Otomasyon Uzmanıyım. Cypress, Playwright, CucumberJS ve Maestro gibi framework'lerle hem web hem mobil uygulamalar üzerinde E2E, komponent ve API testleri geliştiriyorum. ISO 9001:2015 kalite geçmişim sayesinde yazılım testlerini yalnızca teknik değil, süreçsel olarak da ele alabiliyorum.
+I'm a Software Test Automation Specialist. I develop E2E, component, and API tests for both web and mobile applications using frameworks like Cypress, Playwright, CucumberJS, and Maestro. My ISO 9001:2015 quality background enables me to approach software testing not only technically but also from a process perspective.
 
 ---
-
-## 🛠️ Teknik Yeteneklerim
+## 🛠️ Technical Skills
 
 ### 🌐 Web Testing
-- **Cypress & Playwright** - E2E testleri, component testleri
+- **Cypress & Playwright** - E2E tests, component tests
 - **Design Patterns** - Singleton, Factory Pattern, POM
-- **BDD** - Cucumber + Playwright ile Gherkin testleri
-- **React Testing** - Cypress, Playwright ve Vitest ile component testleri
+- **BDD** - Cucumber + Playwright with Gherkin tests
+- **React Testing** - Component tests with Cypress, Playwright and Vitest
 
 ### 🌍 API Testing
-- **REST & GraphQL** - Jest framework ile API testleri
-- **Newman CLI** - Postman koleksiyonları ile otomasyon
+- **REST & GraphQL** - API tests with Jest framework
+- **Newman CLI** - Automation with Postman collections
 
 ### 📱 Mobile Testing
-- **Maestro Framework** - iOS ve Android test otomasyonu
+- **Maestro Framework** - iOS and Android test automation
 
 ### ⚙️ CI/CD
-- **GitHub Actions & Jenkins** - Test pipeline'ları
-- **Parametrik Testler** - Tag ve grep ile filtreleme
+- **GitHub Actions & Jenkins** - Test pipelines
+- **Parametric Tests** - Filtering with tags and grep
 
-### 💻 Teknik Stack
-- **JavaScript** - Test otomasyon geliştirme
-- **ISO 9001:2015** - Kalite süreç yönetimi deneyimi
+### 💻 Tech Stack
+- **JavaScript** - Test automation development
+- **ISO 9001:2015** - Quality process management experience
+---
+📫 **Contact:**  
+[LinkedIn](https://www.linkedin.com/in/mustafa-yıldız93/) • [Medium](https://medium.com/@mustafa.yldz093) • [Gmail](mailto:mustafa.yldz093@gmail.com)
