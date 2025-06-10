@@ -25,8 +25,3 @@ Yazılım Test Otomasyon Uzmanıyım. Cypress, Playwright, CucumberJS ve Maestro
 ### 💻 Teknik Stack
 - **JavaScript** - Test otomasyon geliştirme
 - **ISO 9001:2015** - Kalite süreç yönetimi deneyimi
-
----
-
-📫 **İletişim:**  
-[LinkedIn](https://www.linkedin.com/in/mustafa-yıldız93/) • [Medium](https://medium.com/@mustafa.yldz093) • [Gmail](mailto:mustafa.yldz093@gmail.com)
