@@ -25,3 +25,17 @@ I'm a Software Test Automation Specialist. I develop E2E, component, and API tes
 - **JavaScript** - Test automation development
 - **ISO 9001:2015** - Quality process management experience
 ---
+## 🚀 Open Source Project
+### [Tazi Test Runner](https://github.com/tazi-dev/tazi)
+**Co-Creator & Test Engineering Lead**
+
+Blazing-fast, graph-aware test runner for modern JavaScript & TypeScript projects. Built with Rust for ultra-fast execution and zero-config experience.
+
+**Key Features:**
+- 🧪 Zero-config test runner  
+- ⚡ Ultra-fast execution (Rust-powered)
+- 🧠 Smart test selection with dependency graph
+- 📷 Snapshot testing support
+- 🎯 CLI-first developer experience
+
+*"Tazi" means sighthound in Turkish — fast, smart, and always chasing the right targets.*
