@@ -25,5 +25,3 @@ I'm a Software Test Automation Specialist. I develop E2E, component, and API tes
 - **JavaScript** - Test automation development
 - **ISO 9001:2015** - Quality process management experience
 ---
-📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/mustafa-yıldız93/) • [Medium](https://medium.com/@mustafa.yldz093) • [Gmail](mailto:mustafa.yldz093@gmail.com)
